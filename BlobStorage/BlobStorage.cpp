@@ -26,7 +26,6 @@
 /// - Blob Service REST API - http://msdn.microsoft.com/en-us/library/dd135733.aspx
 /// - Blob Service C++ API - https://azure.microsoft.com/en-us/documentation/articles/storage-c-plus-plus-how-to-use-blobs/
 /// - Storage Emulator - http://msdn.microsoft.com/en-us/library/azure/hh403989.aspx
-/// - Asynchronous Programming with Async and Await  - http://msdn.microsoft.com/en-us/library/hh191443.aspx
 /// 
 
 #include "stdafx.h"
